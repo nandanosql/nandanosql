@@ -1,16 +1,22 @@
-## Hi there 👋
+# Nandan Priyadarshi (nandanosql)
 
-<!--
-**nandanosql/nandanosql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Big Data Engineer | Data Products | Analytics | AI + Data
 
-Here are some ideas to get you started:
+- 📍 Beijing, China
+- 🧠 Interested in: Data Engineering, BI, Automation, LLM apps
+- 🧰 Tech: SQL • Python • Spark • Hive • Power BI • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured Work
+- **UniDevBox VSCode** — tooling / dev utils  
+- **Ecomm** — TypeScript project  
+- **CRMNow** — CRM-related work  
+- **Laravel Auth API (Sanctum)** — Laravel auth + REST APIs  
+
+## 📌 Repos to check
+- `unidevbox-vscode`
+- `ecomm`
+- `crmnow`
+- `laravel-auth-api-sanctum`
+
+## 🤝 Connect
+- GitHub: https://github.com/nandanosql
