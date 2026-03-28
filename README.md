@@ -30,19 +30,6 @@ I'm a **Senior Product Manager at Xiaomi** with 10+ years in data products, now 
 
 ## 💼 Professional Journey
 
-```mermaid
-graph LR
-    A[Big Data Engineer] --> B[Data Products Lead]
-    B --> C[Senior PM @ Xiaomi]
-    C --> D[Data Strategy & Infrastructure]
-    D --> E[AI Tools Builder]
-    style A fill:#e1f5ff
-    style B fill:#b3e5fc
-    style C fill:#81d4fa
-    style D fill:#4fc3f7
-    style E fill:#2e97f7
-```
-
 **Core expertise:**
 - 📊 B2B SaaS, Customer Data Platforms, Data Infrastructure
 - 📱 Mobile Apps, Payment Systems, Inventory Analytics
@@ -66,18 +53,6 @@ graph LR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandanosql&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandanosql&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 - 🐦 **Twitter:** [@nandanpri](https://x.com/nandanpri)
@@ -90,7 +65,5 @@ graph LR
 <div align="center">
 
 *"The best way to predict the future is to build it."*
-
-![Snake animation](https://raw.githubusercontent.com/nandanosql/nandanosql/output/snake.svg)
 
 </div>
