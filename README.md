@@ -46,12 +46,10 @@ Senior Product Manager @ Xiaomi · Builder of things that make PMs & devs faster
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandanosql&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=94A3B8&border_color=1F2937" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanosql&layout=compact&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=94A3B8&border_color=1F2937" alt="Top languages" />
+<img width="49%" src="assets/card-status.svg" alt="Status — builds, contributions, languages" />
+<img width="49%" src="assets/card-langs.svg" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=nandanosql&background=0D1117&border=1F2937&stroke=22D3EE&ring=A855F7&fire=22D3EE&currStreakNum=E2E8F0&currStreakLabel=22D3EE&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="Streak stats" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandanosql&bg_color=0D1117&color=22D3EE&line=A855F7&point=E2E8F0&area=true&hide_border=true&custom_title=NANDAN%27S%20BUILD%20ACTIVITY" alt="Activity graph" />
+<img width="100%" src="assets/card-activity.svg" alt="Build activity — 1003 contributions in the last year" />
 
 </div>
 
