@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Nandan Priyadarshi — AI Product Manager and Solo Builder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#04040D"/>
+      <stop offset="55%" stop-color="#0B0B22"/>
+      <stop offset="100%" stop-color="#04040D"/>
+    </linearGradient>
+    <linearGradient id="nameFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+      <animate attributeName="x1" values="-0.8;0;-0.8" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.2;1;0.2" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="lineFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="scanFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#22D3EE" stroke-width="0.6" opacity="0.10"/>
+    </pattern>
+    <filter id="blurBig" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+
+  <circle cx="180" cy="70" r="230" fill="url(#orbA)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1450" cy="360" r="270" fill="url(#orbB)">
+    <animate attributeName="opacity" values="0.5;0.95;0.5" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="14" y="14" width="1572" height="392" rx="18" fill="none" stroke="#1F2937" stroke-width="1.5"/>
+  <path d="M14 62V32a18 18 0 0 1 18-18h30" fill="none" stroke="#22D3EE" stroke-width="3"/>
+  <path d="M1586 62V32a18 18 0 0 0-18-18h-30" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <path d="M14 358v30a18 18 0 0 0 18 18h30" fill="none" stroke="#A855F7" stroke-width="3"/>
+  <path d="M1586 358v30a18 18 0 0 1-18 18h-30" fill="none" stroke="#22D3EE" stroke-width="3"/>
+
+  <text x="52" y="58" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#64748B" letter-spacing="3">// NANDAN.SYS</text>
+  <circle cx="1292" cy="53" r="5" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1308" y="58" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#64748B" letter-spacing="3">STATUS: ONLINE</text>
+
+  <text x="800" y="205" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="92" font-weight="800" letter-spacing="2" fill="#22D3EE" opacity="0.22" filter="url(#blurBig)">NANDAN PRIYADARSHI</text>
+  <text x="800" y="205" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="92" font-weight="800" letter-spacing="2" fill="url(#nameFill)">NANDAN PRIYADARSHI</text>
+
+  <text x="800" y="264" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#94A3B8" letter-spacing="7">AI PRODUCT MANAGER · SOLO BUILDER</text>
+
+  <rect x="620" y="300" width="360" height="3" rx="1.5" fill="url(#lineFill)"/>
+  <circle cx="630" cy="301.5" r="4" fill="#22D3EE">
+    <animate attributeName="cx" values="630;970;630" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="430" cy="338" r="2" fill="#22D3EE" opacity="0.7">
+    <animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1090" cy="130" r="2" fill="#A855F7" opacity="0.7">
+    <animate attributeName="opacity" values="0.2;0.95;0.2" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1230" cy="205" r="1.6" fill="#818CF8" opacity="0.7">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="52" y="386" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#475569" letter-spacing="2">BEIJING · 39.9042°N 116.4074°E</text>
+  <text x="1548" y="386" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#475569" letter-spacing="2">VER 2026.09 // REPOS: 115</text>
+
+  <rect x="24" y="-80" width="1552" height="90" fill="url(#scanFill)">
+    <animate attributeName="y" values="-90;430" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>

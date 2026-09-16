@@ -1,68 +1,90 @@
 <div align="center">
 
-# 👋 Hey, I'm Nandan Priyadarshi
+<img src="assets/hero.svg" width="100%" alt="Nandan Priyadarshi — AI Product Manager &amp; Solo Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Senior+Product+Manager+%40+Xiaomi;AI-Powered+Developer+%26+PM+Tools;Data+Strategy+%26+Infrastructure;Vibe+Coder+%F0%9F%9A%80;Based+in+Beijing+%F0%9F%87%A8%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Senior+Product+Manager+%40+Xiaomi;Building+AI+developer+%26+PM+tools;115+repos%2C+one+mission%3A+ship+in+public;Ships+with+a+squad+of+AI+agents+%F0%9F%A4%96" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nandanosql&color=2e97f7&style=flat-square&label=Profile+Views)](https://github.com/nandanosql)
-[![GitHub followers](https://img.shields.io/github/followers/nandanosql?style=flat-square&color=2e97f7)](https://github.com/nandanosql?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nandan-priyadarshi/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://x.com/nandanpri)
-[![Website](https://img.shields.io/badge/Website-Visit-ff6900?style=flat-square&logo=google-chrome)](https://www.nandanpriyadarshi.com)
+[![Visitors](https://komarev.com/ghpvc/?username=nandanosql&style=for-the-badge&color=A855F7&label=VISITORS)](https://github.com/nandanosql)
+[![Followers](https://img.shields.io/github/followers/nandanosql?style=for-the-badge&color=22D3EE&labelColor=0D1117&label=FOLLOWERS)](https://github.com/nandanosql?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nandan--priyadarshi-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/nandan-priyadarshi/)
+[![X](https://img.shields.io/badge/X-@nandanpri-0D1117?style=for-the-badge&logo=x&logoColor=A855F7)](https://x.com/nandanpri)
+[![Website](https://img.shields.io/badge/Website-nandanpriyadarshi.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=818CF8)](https://www.nandanpriyadarshi.com)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 🎯 What I'm Building
+## // WHOAMI
 
-I'm a **Senior Product Manager at Xiaomi** with 10+ years in data products, now obsessed with **AI-powered developer tools**. I build things that make product managers and developers faster.
+```txt
+10+ years turning data into products. Now turning products into AI tools.
+Senior Product Manager @ Xiaomi · Builder of things that make PMs & devs faster.
+```
 
-**Currently shipping:**
-- 🎨 **[ai-slides](https://github.com/nandanosql/ai-slides)** — Create beautiful presentations with AI
-- 📊 **[all_in_one_pm_skills](https://github.com/nandanosql/all_in_one_pm_skills)** — PM toolkit for the AI-first era
-- 📝 **[prd_generator_skill](https://github.com/nandanosql/prd_generator_skill)** — Auto-generate PRDs from BRDs
-- 🗄️ **[database-explorer-mcp](https://github.com/nandanosql/database-explorer-mcp)** — Query databases with natural language via MCP
-- 📊 **[data_analyst_pro](https://github.com/nandanosql/data_analyst_pro)** — Turn raw data into insights
-- 🧠 **[mimohub](https://github.com/nandanosql/mimohub)** — Chat with your Excel data using AI
+-  I ship **AI developer & PM tools** — MCP servers, agent skills, full products
+- 🛰️ Background: B2B SaaS · Customer Data Platforms · Data Infrastructure · International markets (India · China · SEA)
+- 🤖 Secret weapon: a squad of AI agents (planner · builder · critic · QA) — ask me how
+- 🎯 Current mission: turn **115 repos into 3 products with 10,000 real users**
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 💼 Professional Journey
+## // FEATURED BUILDS
 
-**Core expertise:**
-- 📊 B2B SaaS, Customer Data Platforms, Data Infrastructure
-- 📱 Mobile Apps, Payment Systems, Inventory Analytics
-- 🤖 AI-powered tools, LLM integration, MCP servers
-- 🌏 International markets (South Asia, India, China)
+| Project | What it does | Stack |
+|---|---|---|
+| [**database-explorer-mcp**](https://github.com/nandanosql/database-explorer-mcp) | Talk to PostgreSQL / MySQL / SQLite / MongoDB in plain English — MCP server for AI agents | `TypeScript` `MCP` |
+| [**unidevbox-vscode**](https://github.com/nandanosql/unidevbox-vscode) | 20+ dev utilities inside VS Code — JSON, regex, UUID, hashes, no context switching | `TypeScript` `VS Code` |
+| [**ai-slides**](https://github.com/nandanosql/ai-slides) | Describe a deck in plain text → get a polished HTML presentation | `Claude Skill` `HTML` |
+| [**all_in_one_pm_skills**](https://github.com/nandanosql/all_in_one_pm_skills) | 103 battle-tested PM skills for the AI-first era | `Agent Skills` |
+| [**prd_generator_skill**](https://github.com/nandanosql/prd_generator_skill) | Feishu BRD in → developer-ready PRD out | `Claude Skill` |
+| [**data_analyst_pro**](https://github.com/nandanosql/data_analyst_pro) | Automated EDA + natural-language queries over CSV, Excel & SQL | `Python` |
+| [**mimohub**](https://github.com/nandanosql/mimohub) | Chat with your Excel sheets using Xiaomi MiMo AI | `Python` `Streamlit` |
 
----
+<img src="assets/divider.svg" width="100%" />
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🌐 Let's Connect
-
-- 🐦 **Twitter:** [@nandanpri](https://x.com/nandanpri)
-- 💼 **LinkedIn:** [Nandan Priyadarshi](https://www.linkedin.com/in/nandan-priyadarshi/)
-- 🌍 **Website:** [nandanpriyadarshi.com](https://www.nandanpriyadarshi.com)
-- 📫 **Open to:** Collaboration on AI tools, product strategy consulting, speaking
-
----
+## // TELEMETRY
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandanosql&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=94A3B8&border_color=1F2937" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanosql&layout=compact&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=94A3B8&border_color=1F2937" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=nandanosql&background=0D1117&border=1F2937&stroke=22D3EE&ring=A855F7&fire=22D3EE&currStreakNum=E2E8F0&currStreakLabel=22D3EE&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B" alt="Streak stats" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nandanosql&bg_color=0D1117&color=22D3EE&line=A855F7&point=E2E8F0&area=true&hide_border=true&custom_title=NANDAN%27S%20BUILD%20ACTIVITY" alt="Activity graph" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## // STACK
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## // TRANSMISSION
+
+<div align="center">
+
+**Open to:** AI tool collaborations · product strategy consulting · speaking
+
+[LinkedIn](https://www.linkedin.com/in/nandan-priyadarshi/) · [X / Twitter](https://x.com/nandanpri) · [Website](https://www.nandanpriyadarshi.com)
+
+<br/>
 
 *"The best way to predict the future is to build it."*
 

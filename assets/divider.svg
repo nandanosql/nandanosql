@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="17" width="1200" height="2" fill="url(#lg)"/>
+  <path d="M600 6l8 12-8 12-8-12z" fill="#818CF8" opacity="0.9"/>
+  <circle cx="120" cy="18" r="3" fill="#22D3EE">
+    <animate attributeName="cx" values="120;1080;120" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</svg>
