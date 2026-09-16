@@ -51,6 +51,8 @@ Senior Product Manager @ Xiaomi · Builder of things that make PMs & devs faster
 
 <img width="100%" src="assets/card-activity.svg" alt="Build activity — 1003 contributions in the last year" />
 
+<img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+
 </div>
 
 <img src="assets/divider.svg" width="100%" />
@@ -69,6 +71,16 @@ Senior Product Manager @ Xiaomi · Builder of things that make PMs & devs faster
 ![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## // CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/nandanosql/nandanosql/output/snake-dark.svg" alt="Snake eating my contribution graph" />
 
 </div>
 
